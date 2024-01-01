@@ -8,13 +8,13 @@ I bring a unique blend of technical expertise, project management, and collabora
 
 ## 🏆 Skills and Certifications
 
-- **Programming Languages**: Python, [Other languages]
-- **Tools and Frameworks**: Scikit-learn, TensorFlow, PyTorch, Jupyter, Docker
+- **Programming Languages**: Python, Rust
+- **Tools and Frameworks**: Scikit-learn, TensorFlow, PyTorch, Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Fast API, Flask, Jupyter, Docker, Kubernetes, Terraform
 - **Big Data Technologies**: Apache Spark
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Soft Skills**: Excellent communication, problem-solving, and collaboration
-- **Project Management**: Agile methodologies, project planning, execution
-- **Certifications**: [Certification Badges]
+- **Project Management**: ***Tools:*** Trello, Notion ***Skills:*** Agile methodologies, project planning, execution
+<!--- - **Certifications**: [Certification Badges] --->
 
 ## 🛠️ Project Highlights
 
