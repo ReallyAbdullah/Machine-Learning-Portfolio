@@ -94,8 +94,7 @@ Explore my proficiency in popular machine learning libraries, big data technolog
 Connect with me on LinkedIn, Twitter, or drop me an email. I'm open to collaboration, discussions, and feedback.
 
 - LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- Email: [abdullahfast95@gmail.com](mailto:abdullahfast95@gmail.com)
 
 ## 📄 License
 
