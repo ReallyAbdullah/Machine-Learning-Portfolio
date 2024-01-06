@@ -44,7 +44,7 @@ _Caption: A Diverging Palette to help visualise the difference in Footprint betw
 
 ### Project 2: [Project Name]
 
-- The primary objective of this analysis is to enhance the fraud detection mechanism by refining the threshold used in the simulation. The emphasis lies in optimizing the criteria for identifying and capturing fraudulent transactions more effectively. Through a comprehensive Exploratory Data Analysis (EDA), we aim to derive valuable insights, patterns, and statistical summaries from the data, informing the formulation of an improved threshold strategy. This, in turn, contributes to the development of a more robust and accurate fraud detection system.
+- [Project Description]
 - Code: [Link to Project 2 Folder]
 - Results: [Visualizations, Model Performance]
 
