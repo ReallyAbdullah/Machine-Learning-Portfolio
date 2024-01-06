@@ -15,19 +15,21 @@ I bring a unique blend of technical expertise, project management, and collabora
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Soft Skills**: Excellent communication, problem-solving, and collaboration
 - **Project Management**:
-  - ***Tools:*** Trello, Notion
-  - ***Skills:*** Agile methodologies, project planning, execution
-<!--- - **Certifications**: [Certification Badges] --->
+  - **_Tools:_** Trello, Notion
+  - **_Skills:_** Agile methodologies, project planning, execution
+  <!--- - **Certifications**: [Certification Badges] --->
 
 ## 🛠️ Project Highlights
 
-### Project 1: [Project Name]
+### Project 1: **Fraud Detection**
+
 - [Brief description]
-- Code: [Link to Project 1 Folder]
-- Results: [Visualizations, Model Performance]
+- Code: [Link to Code](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Projects/Fraud-Detection)
+- Results: [Visualizations, Model Performance -> **AUPRC = 0.9926360768575739**]
 
 ### Project 2: [Project Name]
-- [Brief description]
+
+- The primary objective of this analysis is to enhance the fraud detection mechanism by refining the threshold used in the simulation. The emphasis lies in optimizing the criteria for identifying and capturing fraudulent transactions more effectively. Through a comprehensive Exploratory Data Analysis (EDA), we aim to derive valuable insights, patterns, and statistical summaries from the data, informing the formulation of an improved threshold strategy. This, in turn, contributes to the development of a more robust and accurate fraud detection system.
 - Code: [Link to Project 2 Folder]
 - Results: [Visualizations, Model Performance]
 
