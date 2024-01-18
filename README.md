@@ -46,42 +46,33 @@ _Caption: A Diverging Palette to help visualise the difference in Footprint betw
 
 Explore my expertise in data analysis and cleaning through insightful Jupyter Notebooks and scripts. Gain insights into my EDA techniques and how I handle data cleaning challenges.
 
-- **EDA**: [Link to EDA Folder]
-- **Data Cleaning**: [Link to Data Cleaning Folder]
+- **Data Analysis**: [Link to Data Analysis Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Cleaning])
+- **Data Cleaning**: [Link to Data Cleaning Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Analysis])
 
-## 🤖 Machine Learning Algorithms
-
-Dive into the world of machine learning with supervised, unsupervised, and deep learning projects. Witness my proficiency in implementing and evaluating various algorithms.
-
-- **Supervised Learning**: [Link to Supervised Learning Folder]
-- **Unsupervised Learning**: [Link to Unsupervised Learning Folder]
-- **Deep Learning**: [Link to Deep Learning Folder]
-
-## ⚙️ MLOps
+## ⚙️ MLOps and End-to-end Projects
 
 Explore my skills in MLOps, from version control to continuous deployment. See how I integrate machine learning into larger software projects and ensure smooth operations.
 
-- **Version Control**: [Link to Version Control Folder]
-- **Model Deployment**: [Link to Deployment Folder]
-- **Model Monitoring**: [Link to Monitoring Folder]
-- **CI/CD**: [Link to CI/CD Folder]
-- **Collaboration**: [Documentation on Collaborative Workflows]
+- **MLOps**: [Link to MLOps Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/MLOps])
+- **End-to-end Projects**: [Link to End-to-end Projects Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/End-to-end%20Projects])
 
 ## ☁️ Cloud Deployment
 
 Check out projects deployed on various cloud platforms, showcasing my expertise in cloud computing, infrastructure as code, and scalable ML systems.
 
-- **Cloud Platforms**: [Link to Cloud Platforms Folder]
-- **Serverless Computing**: [Link to Serverless Computing Folder]
-- **Scalability**: [Documentation on Scalable ML Systems]
+- **AWS**: [Link to AWS Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/AWS])
+- **GCP**: [Link to GCP Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/GCP])
+- **Azure**: [Link to Azure Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/Azure])
 
-## 🛠️ Frameworks and Libraries
+## 🛠️ ML Domains
 
-Explore my proficiency in popular machine learning libraries, big data technologies, and other relevant frameworks.
+Explore my proficiency in Big data, Generative AI, NLP and Text Analytics, Time  Series Analysis, and Computer Vision. Also view my preferred sample ML Project Starter Code.
 
-- **Machine Learning Libraries**: [Link to ML Libraries Folder]
-- **Big Data Technologies**: [Link to Big Data Folder]
-- **Natural Language Processing (NLP)**: [Link to NLP Folder]
+- **Big Data**: [Link to Big Data Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/ML%20with%20Big%20Data])
+- **Generative AI**: [Link to Generative AI Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Generative%20AI])
+- **NLPs**: [Link to NLP Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/NLP])
+- **Time Series Analysis**: [Link to Time Series Analysis Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Time%20Series%20Analysis])
+- **Computer Vision)**: [Link to Computer Vision Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Computer%20Vision])
 
 ## 📈 Contact and Social Media
 
