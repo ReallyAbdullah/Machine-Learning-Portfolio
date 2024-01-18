@@ -70,8 +70,8 @@ Explore my proficiency in Big data, Generative AI, NLP and Text Analytics, Time 
 
 - **Big Data**: [Link to Big Data Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/ML%20with%20Big%20Data)
 - **Generative AI**: [Link to Generative AI Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Generative%20AI)
-- **NLPs**: [Link to NLP Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/NLP)
-- **Time Series Analysis**: [Link to Time Series Analysis Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Time%20Series%20Analysis)
+- **NLP and Text Analytics**: [Link to NLP Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/NLP%20and%20Text%20Analytics)
+- **Time Series Forecasting**: [Link to Time Series Forecasting Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Time%20Series%20Forecasting)
 - **Computer Vision)**: [Link to Computer Vision Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Computer%20Vision)
 
 ## 📈 Contact and Social Media
