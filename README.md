@@ -46,33 +46,33 @@ _Caption: A Diverging Palette to help visualise the difference in Footprint betw
 
 Explore my expertise in data analysis and cleaning through insightful Jupyter Notebooks and scripts. Gain insights into my EDA techniques and how I handle data cleaning challenges.
 
-- **Data Analysis**: [Link to Data Analysis Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Cleaning])
-- **Data Cleaning**: [Link to Data Cleaning Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Analysis])
+- **Data Analysis**: [Link to Data Analysis Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Cleaning)
+- **Data Cleaning**: [Link to Data Cleaning Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Analysis)
 
 ## ⚙️ MLOps and End-to-end Projects
 
 Explore my skills in MLOps, from version control to continuous deployment. See how I integrate machine learning into larger software projects and ensure smooth operations.
 
-- **MLOps**: [Link to MLOps Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/MLOps])
-- **End-to-end Projects**: [Link to End-to-end Projects Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/End-to-end%20Projects])
+- **MLOps**: [Link to MLOps Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/MLOps)
+- **End-to-end Projects**: [Link to End-to-end Projects Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/End-to-end%20Projects)
 
 ## ☁️ Cloud Deployment
 
 Check out projects deployed on various cloud platforms, showcasing my expertise in cloud computing, infrastructure as code, and scalable ML systems.
 
-- **AWS**: [Link to AWS Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/AWS])
-- **GCP**: [Link to GCP Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/GCP])
-- **Azure**: [Link to Azure Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/Azure])
+- **AWS**: [Link to AWS Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/AWS)
+- **GCP**: [Link to GCP Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/GCP)
+- **Azure**: [Link to Azure Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/Azure)
 
 ## 🛠️ ML Domains
 
 Explore my proficiency in Big data, Generative AI, NLP and Text Analytics, Time  Series Analysis, and Computer Vision. Also view my preferred sample ML Project Starter Code.
 
-- **Big Data**: [Link to Big Data Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/ML%20with%20Big%20Data])
-- **Generative AI**: [Link to Generative AI Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Generative%20AI])
-- **NLPs**: [Link to NLP Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/NLP])
-- **Time Series Analysis**: [Link to Time Series Analysis Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Time%20Series%20Analysis])
-- **Computer Vision)**: [Link to Computer Vision Folder]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Computer%20Vision])
+- **Big Data**: [Link to Big Data Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/ML%20with%20Big%20Data)
+- **Generative AI**: [Link to Generative AI Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Generative%20AI)
+- **NLPs**: [Link to NLP Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/NLP)
+- **Time Series Analysis**: [Link to Time Series Analysis Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Time%20Series%20Analysis)
+- **Computer Vision)**: [Link to Computer Vision Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Computer%20Vision)
 
 ## 📈 Contact and Social Media
 
