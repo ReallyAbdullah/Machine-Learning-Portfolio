@@ -46,8 +46,8 @@ _Caption: A Diverging Palette to help visualise the difference in Footprint betw
 
 Explore my expertise in data analysis and cleaning through insightful Jupyter Notebooks and scripts. Gain insights into my EDA techniques and how I handle data cleaning challenges.
 
-- **Data Analysis**: [Link to Data Analysis Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Cleaning)
-- **Data Cleaning**: [Link to Data Cleaning Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Analysis)
+- **Data Analysis**: [Link to Data Analysis Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Analysis)
+- **Data Cleaning**: [Link to Data Cleaning Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Data%20Cleaning)
 
 ## ⚙️ MLOps and End-to-end Projects
 
