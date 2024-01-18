@@ -24,7 +24,7 @@ I bring a unique blend of technical expertise, project management, and collabora
 ### Project 1: **Fraud Detection**
 
 - The primary objective of this analysis is to enhance the fraud detection mechanism by refining the threshold used in the simulation. The emphasis lies in optimizing the criteria for identifying and capturing fraudulent transactions more effectively. Through a comprehensive Exploratory Data Analysis (EDA), we aim to derive valuable insights, patterns, and statistical summaries from the data, informing the formulation of an improved threshold strategy. This, in turn, contributes to the development of a more robust and accurate fraud detection system.
-- Code: [Link to Code]([https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/fraud-detection.ipynb])
+- Code: [Link to Code](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/fraud-detection.ipynb)
 - Results: [Model Performance -> **AUPRC = 0.9926360768575739**]
 - Visualisations:
   **Visualization 1: Strip Plot**
