@@ -24,29 +24,23 @@ I bring a unique blend of technical expertise, project management, and collabora
 ### Project 1: **Fraud Detection**
 
 - The primary objective of this analysis is to enhance the fraud detection mechanism by refining the threshold used in the simulation. The emphasis lies in optimizing the criteria for identifying and capturing fraudulent transactions more effectively. Through a comprehensive Exploratory Data Analysis (EDA), we aim to derive valuable insights, patterns, and statistical summaries from the data, informing the formulation of an improved threshold strategy. This, in turn, contributes to the development of a more robust and accurate fraud detection system.
-- Code: [Link to Code](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/Projects/Fraud-Detection/fraud-detection.ipynb)
+- Code: [Link to Code](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML-Notebooks/Fraud-Detection/fraud-detection.ipynb)
 - Results: [Model Performance -> **AUPRC = 0.9926360768575739**]
 - Visualisations:
   **Visualization 1: Strip Plot**
 
-![Fingerprints of Transactions over Time](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/Projects/Fraud-Detection/fingerprint.png)
+![Fingerprints of Transactions over Time](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML-Notebooks/Fraud-Detection/fingerprint.png)
 _Caption: This strip plot illustrates the figerprints of Fraudulent and Non-Fraudulent Transactions over Time_
 
 **Visualization 2: 3D Scatter Plot**
 
-![Feature Separation 3D Scatter Plot](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/Projects/Fraud-Detection/featureSeparation.png)
+![Feature Separation 3D Scatter Plot](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML-Notebooks/Fraud-Detection/featureSeparation.png)
 _Caption: A 3D Scatter Plot showing separation between Fraudulent and Non-Fraudulent Transactions using pre-existing and engineered features_
 
 **Visualization 3: Diverging Palette**
 
-![Footprint Diverging Palette](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/Projects/Fraud-Detection/transactionFootprint.png)
+![Footprint Diverging Palette](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML-Notebooks/Fraud-Detection/transactionFootprint.png)
 _Caption: A Diverging Palette to help visualise the difference in Footprint between Fraudulent and Non-Fraudulent Transactions._
-
-### Project 2: [Project Name]
-
-- [Project Description]
-- Code: [Link to Project 2 Folder]
-- Results: [Visualizations, Model Performance]
 
 ## 📊 Data Analysis and Cleaning
 
