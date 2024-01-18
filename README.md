@@ -29,7 +29,7 @@ I bring a unique blend of technical expertise, project management, and collabora
 - Visualisations:
   **Visualization 1: Strip Plot**
 
-<img src="https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/fingerprint.png" width="50%" height="50%" align="center">
+<img src="https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/fingerprint.png" width="50%" height="50%" display="block" margin-left="auto" margin-right="auto">
 _Caption: This strip plot illustrates the figerprints of Fraudulent and Non-Fraudulent Transactions over Time_
 
 **Visualization 2: 3D Scatter Plot**
