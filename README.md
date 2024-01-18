@@ -29,17 +29,17 @@ I bring a unique blend of technical expertise, project management, and collabora
 - Visualisations:
   **Visualization 1: Strip Plot**
 
-<img src="https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/fingerprint.png" width="50%" height="50%" display="block" margin-left="auto" margin-right="auto">
+<img src="https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/fingerprint.png" width="50%" height="50%">
 _Caption: This strip plot illustrates the figerprints of Fraudulent and Non-Fraudulent Transactions over Time_
 
 **Visualization 2: 3D Scatter Plot**
 
-![Feature Separation 3D Scatter Plot](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/featureSeparation.png)
+<img src="https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/featureSeparation.png" width="50%" height="50%">
 _Caption: A 3D Scatter Plot showing separation between Fraudulent and Non-Fraudulent Transactions using pre-existing and engineered features_
 
 **Visualization 3: Diverging Palette**
 
-![Footprint Diverging Palette](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/transactionFootprint.png)
+<img src="https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/blob/main/ML%20Notebooks/Fraud-Detection/transactionFootprint.png" width="50%" height="50%">
 _Caption: A Diverging Palette to help visualise the difference in Footprint between Fraudulent and Non-Fraudulent Transactions._
 
 ## 📊 Data Analysis and Cleaning
