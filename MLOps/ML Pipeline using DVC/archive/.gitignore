@@ -4,3 +4,5 @@
 /test.joblib
 /model.joblib
 /results.yaml
+../dvc-env
+../.dvc
