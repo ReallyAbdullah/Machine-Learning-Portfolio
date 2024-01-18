@@ -1,0 +1,26 @@
+cmd: python ./train.py
+deps:
+- path: ./archive/train.csv
+  hash: md5
+  md5: cfa7da197088f8a5ffcc273a5e104874
+  size: 46479308
+- path: ./archive/train.joblib
+  hash: md5
+  md5: 614211ca6c620c648466d25bf6db3e2a
+  size: 37416227
+- path: ./train.py
+  hash: md5
+  md5: c8954884cc61dfd68b8ba96b69ab519c
+  size: 669
+params:
+  params.yaml:
+    train:
+      penalty: l2
+      C: 1.0
+      solver: lbfgs
+      model_save_path: ./archive/model.joblib
+outs:
+- path: ./archive/model.joblib
+  hash: md5
+  md5: 7d42296727f0120285b770a6fbe57bc5
+  size: 704335

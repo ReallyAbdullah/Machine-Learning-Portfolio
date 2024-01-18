@@ -1,0 +1,26 @@
+cmd: python ./prepare_data.py
+deps:
+- path: ./archive/imdb-dataset.csv
+  hash: md5
+  md5: 308443a50e5c993e7b8a1cdb95750026
+  size: 66212309
+- path: ./prepare_data.py
+  hash: md5
+  md5: 769767495b4827a207b076a0c5d42f70
+  size: 650
+params:
+  params.yaml:
+    data:
+      csv_file_path: ./archive/imdb-dataset.csv
+      test_set_ratio: 0.3
+      train_csv_save_path: ./archive/train.csv
+      test_csv_save_path: ./archive/test.csv
+outs:
+- path: ./archive/test.csv
+  hash: md5
+  md5: 51d90af1d8323666d161de0cec433cf9
+  size: 19833030
+- path: ./archive/train.csv
+  hash: md5
+  md5: cfa7da197088f8a5ffcc273a5e104874
+  size: 46479308
