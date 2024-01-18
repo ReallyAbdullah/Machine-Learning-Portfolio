@@ -60,9 +60,9 @@ Explore my skills in MLOps, from version control to continuous deployment. See h
 
 Check out projects deployed on various cloud platforms, showcasing my expertise in cloud computing, infrastructure as code, and scalable ML systems.
 
-- **AWS**: [Link to AWS Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/AWS)
-- **GCP**: [Link to GCP Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/GCP)
-- **Azure**: [Link to Azure Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployment/Azure)
+- **AWS**: [Link to AWS Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployments/AWS)
+- **GCP**: [Link to GCP Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployments/GCP)
+- **Azure**: [Link to Azure Folder](https://github.com/ReallyAbdullah/Machine-Learning-Portfolio/tree/main/Cloud%20Deployments/Azure)
 
 ## 🛠️ ML Domains
 
